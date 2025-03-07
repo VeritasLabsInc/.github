@@ -1,4 +1,7 @@
+<img src="./logo.png" width="50%"></img>
+
 ## Hi there 👋
+We're Veritas Labs. Welcome to our Github Profile.
 
 <!--
 
